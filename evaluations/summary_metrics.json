@@ -1,0 +1,6 @@
+{
+    "model": "gpt-5.4",
+    "total_problems": 288,
+    "correct": 253,
+    "accuracy_percentage": 87.85
+}
